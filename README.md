@@ -10,7 +10,7 @@ This tool extracts multi-word highlights from a given text file and exports them
 
 **Features**
 * GUI Selection:
-Choose the highlights source file (e.g., from Kindle or other reading apps) and a desired output folder.
+Choose the highlights source file on the Kindle and a desired output folder.
 
 * Book Filtering:
 The app scans the source file, identifies all books, and displays them with checkboxes so you can select which ones to export.
