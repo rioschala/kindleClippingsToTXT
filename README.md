@@ -4,6 +4,10 @@ Kindle Clippings file to individual TXT files with date.
 Highlight Exporter
 This tool extracts multi-word highlights from a given text file and exports them into individual .txt files per selected book.
 
+<p align="center">
+  <img src="https://pub-18229f9d31f241a4b80d8d8a9c50ec52.r2.dev/Screenshot%202024-12-13%20182431.png" />
+</p>
+
 **Features**
 * GUI Selection:
 Choose the highlights source file (e.g., from Kindle or other reading apps) and a desired output folder.
