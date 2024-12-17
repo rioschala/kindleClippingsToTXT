@@ -126,7 +126,7 @@ def export_selected():
 
         with open(out_path, 'w', encoding='utf-8') as out:
             for date_str, text in highlights:
-                out.write(f"Date: {date_str}\n{text}\n\n---\n\n")
+                out.write(f"Date: {date_str}\n\n{text}\n\n---\n\n")
 
     messagebox.showinfo("Export Complete", "Selected books have been exported.")
 
